@@ -10,7 +10,7 @@ app.use(express.json());
 
 // --- 1. YOUR SECRET KEYS & URLs ---
 const GEMINI_API_KEY = "AIzaSyAfsM-pSiBy_1ZVyKR2_ysPV4oyNnkBHIM";
-const GOOGLE_SHEET_URL = "onst GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbx_5jOKaYWuaiJ-vEZFZbBxgeVbJOtYT0TCHYSq3H7rvPiDLBdQO7RoAvW4FgAmMj48_g/exec";
+const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbx_5jOKaYWuaiJ-vEZFZbBxgeVbJOtYT0TCHYSq3H7rvPiDLBdQO7RoAvW4FgAmMj48_g/exec";
 
 // You will get these from your Meta Developer Dashboard
 const WHATSAPP_TOKEN = "PASTE_META_TEMPORARY_ACCESS_TOKEN_HERE"; 
